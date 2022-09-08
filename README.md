@@ -7,7 +7,7 @@
 
 ***<h4><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey, nice to see you.</h4>***
 
-I'm a senior web developer, particularly interested in PHP with the Laravel framework .
+I'm a web developer, particularly interested in PHP with the Laravel framework .
 I'm passionate about building excellent programs that improve the lives of those around me .
 I wish you the best .
 
