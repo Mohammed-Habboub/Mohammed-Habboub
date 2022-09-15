@@ -39,6 +39,8 @@ I'm a creative problem solving enthusiast and a product guy, with a constantly g
 * API Developer
 * AJAX
 * JSON
+* Python
+* C#
 
 
 <br>
