@@ -34,7 +34,11 @@ I'm a creative problem solving enthusiast and a product guy, with a constantly g
 * Laravel framework
 * SQL
 * Git
-* VS & visual studio
+* VS & visual studio\
+* APIs
+* API Developer
+* AJAX
+* JSON
 
 
 <br>
