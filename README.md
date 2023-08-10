@@ -33,6 +33,8 @@ I'm a creative problem solving enthusiast and a product guy, with a constantly g
 * PHP
 * Laravel framework
 * SQL / MySQL
+* RESTful API
+* Authentication
 * Git
 * VS & visual studio
 * APIs
