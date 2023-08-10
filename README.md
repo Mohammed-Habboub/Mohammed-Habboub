@@ -32,9 +32,9 @@ I'm a creative problem solving enthusiast and a product guy, with a constantly g
 * HTML / CSS / JS
 * PHP
 * Laravel framework
-* SQL
+* SQL / MySQL
 * Git
-* VS & visual studio\
+* VS & visual studio
 * APIs
 * API Developer
 * AJAX
